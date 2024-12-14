@@ -36,7 +36,7 @@ export default function Unitslide() {
 
     useEffect(() => {
         getLectures();
-    }, [page]);
+    }, [getLectures]);
 
     useEffect(() => {
         const observer = new IntersectionObserver(
