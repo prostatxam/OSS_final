@@ -17,7 +17,7 @@ const EpicRewards = () => (
       <div className="css-qkjsuf" data-testid="edsChildrenWithIcon">
         <div className="css-1baulvz">
           <div className="css-xomyej" data-component="Counter">
-            <span className="css-4sfipf">마일리지</span>
+            <span className="css-4sfipf">₩4,600</span>
           </div>
         </div>
         <div className="css-sto15n">
